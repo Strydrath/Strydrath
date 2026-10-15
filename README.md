@@ -1,12 +1,12 @@
 # Marianna Jucewicz
 
-MSc student at Gdańsk University of Technology. I work on data tooling for .NET and on machine-learning experiments.
+MSc student at Gdańsk University of Technology, Functional Programming enthusiast.
 
 ## Selected work
 
 ### [Big Deedle](https://github.com/Strydrath/Deedle/tree/benchmarks)
 
-A fork of the F# dataframe library [Deedle](https://github.com/fslaborg/Deedle). Big Deedle adds file-backed virtual frames so CSV and Parquet data can be filtered and transformed on one machine without loading the whole frame first. This is the practical part of my master's thesis. The implementation and benchmarks are on the `benchmarks` branch. `master` follows upstream Deedle.
+A fork of the F# dataframe library [Deedle](https://github.com/fslaborg/Deedle). Big Deedle adds file-backed virtual frames so CSV and Parquet data can be filtered and transformed on one machine without loading the whole frame first. This is the practical part of my master's thesis. The implementation and benchmarks are on the `benchmarks` branch. `master` follows upstream Deedle. Part of the Master's thesis, supervised by Krzysztof Manuszewski, PhD.
 
 ### [Mammo_CL](https://github.com/Strydrath/Mammo_CL)
 
